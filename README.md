@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="./animated_name.svg" alt="Nayana Jagadish Raikar" width="800">
-<p align="center" style="font-size: 16px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-top: 5px;">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=45&pause=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=NAYANA+JAGADISH+RAIKAR" alt="Nayana Jagadish Raikar" />
+<p align="center" style="font-size: 16px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-top: -10px;">
   CS Undergraduate @ RVCE
 </p>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   <p style="font-size: 16px; color: #c9d1d9; max-width: 800px; line-height: 1.8; text-align: center;">
-    I am a computational researcher focused on bridging the gap between theoretical machine learning and applied engineering. My work centers on designing specialized deep learning architectures—including heterogeneous graph neural networks, generative adversarial networks (GANs), and spatial AI systems—to solve complex, high-impact problems across disparate domains. I have engineered predictive pipelines for critical care diagnostics, optimized resource routing using multi-modal telemetry, and developed patent-pending frameworks for structural anomaly detection. My primary objective is to advance state-of-the-art intelligent systems by translating rigorous mathematical models into highly scalable, peer-reviewed technical solutions.
+    I am a Computer Science undergraduate passionate about bridging the gap between theoretical machine learning and applied engineering. My academic and project work centers on designing specialized deep learning architectures—including heterogeneous graph neural networks, generative adversarial networks (GANs), and spatial AI systems—to solve complex, high-impact problems. Through my coursework and independent projects, I have engineered predictive pipelines for critical care diagnostics, optimized resource routing using multi-modal telemetry, and developed patent-pending frameworks for structural anomaly detection. My goal as a student is to continuously explore state-of-the-art intelligent systems and translate rigorous mathematical models into scalable, real-world solutions.
   </p>
 </div>
 
@@ -125,34 +125,29 @@
 <h2 align="center">OTHER PROJECTS</h2>
 
 <div align="center">
-  <div style="max-width: 800px; text-align: left;">
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      
-      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #58a6ff;">
-        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">CVE-Triage-Agent</h3>
-        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">An AI-driven cybersecurity triage agent designed for automated vulnerability assessment and response protocol execution.</p>
-      </li>
+<div style="max-width: 800px; text-align: left;">
+<ul style="list-style-type: none; padding: 0; margin: 0;">
 
-      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #388bfd;">
-        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Finger Vein Authentication</h3>
-        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A biometric security pipeline leveraging Near-Infrared imaging and U-Net spatial segmentation, deployed on Raspberry Pi CM4.</p>
-      </li>
+<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #58a6ff;">
+<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">CVE-Triage-Agent</h3>
+<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">An AI-driven cybersecurity triage agent designed for automated vulnerability assessment and response protocol execution.</p>
+</li>
 
-      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1f6feb;">
-        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Policy Frameworks for Circular Transitions</h3>
-        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A data-driven Jupyter Notebook analysis outlining sustainable circular economy transitions for developing nations.</p>
-      </li>
+<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #388bfd;">
+<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Finger Vein Authentication</h3>
+<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A biometric security pipeline leveraging Near-Infrared imaging and U-Net spatial segmentation, deployed on Raspberry Pi CM4.</p>
+</li>
 
-      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1158c7;">
-        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Gamified Skill Learning (DAA)</h3>
-        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">An interactive TypeScript-based educational platform focused on teaching complex algorithm design through gamification.</p>
-      </li>
+<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1f6feb;">
+<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">NeuroCardio (ECG)</h3>
+<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A CNN-BiLSTM diagnostic tool mapped to AAMI EC57 standards, engineered to handle class imbalance via focal loss.</p>
+</li>
 
-      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #0d419d;">
-        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Don't Bug Me</h3>
-        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A food safety hackathon solution utilizing Python and machine learning to predict and prevent foodborne contamination vectors.</p>
-      </li>
+<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1158c7;">
+<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">SafeScript</h3>
+<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A JavaScript-based secure execution framework designed to sandbox code and mitigate runtime vulnerabilities.</p>
+</li>
 
-    </ul>
-  </div>
+</ul>
+</div>
 </div>
