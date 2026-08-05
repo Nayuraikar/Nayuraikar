@@ -1,146 +1,150 @@
 <div align="center">
 
-<h1 align="center">Nayana Jagadish Raikar</h1>
+<!-- MODERN NEON HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10:a855f7,90:22d3ee&height=180&section=header&text=Nayana%20Jagadish%20Raikar&fontSize=42&fontColor=ffffff&animation=fadeIn&reversal=false" width="100%"/>
 
+<!-- MINIMALIST SOCIALS -->
 <p align="center">
-  <b>Building Intelligent Systems | AI, ML & Spatial Data</b>
+  <a href="https://github.com/Nayuraikar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="mailto:nayu.raikar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
 </p>
 
-<br/>
-
 <p align="center">
-  <a href="https://github.com/Nayuraikar"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:nayu.raikar@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <strong>Computer Science Undergraduate @ RV College of Engineering</strong><br>
+  <em>Specializing in AI & Machine Learning to build intelligent systems for real-world impact.</em>
 </p>
 
 </div>
 
 <br/>
 
-## Profile
+## About Me
 
-I am a Computer Science undergraduate at RV College of Engineering, passionate about building intelligent systems that transform complex, real-world data into actionable decision-support tools. My work spans a broad spectrum of domains, including artificial intelligence, machine learning, graph neural networks, generative vision models, spatial AI, healthcare diagnostics, and IoT-based platforms. I focus on bridging the gap between theoretical research and tangible applications, architecting robust pipelines that solve critical, real-world problems.
+I am deeply passionate about bridging the gap between complex research and tangible applications. My work focuses on leveraging **Artificial Intelligence and Machine Learning** to build robust systems that convert real-world data into actionable decision-support tools.
+
+My expertise spans:
+*   Graph Neural Networks (GNNs) & Generative Vision Models.
+*   Spatial & Environmental AI.
+*   Healthcare ML & Time-Series Analysis.
+*   IoT-based Platforms & Full-Stack Integration.
 
 <br/>
 
-## Technical Stack
+## Tech Stack
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%"><b>Languages</b></td>
-      <td align="center" width="33%"><b>AI & Machine Learning</b></td>
-      <td align="center" width="33%"><b>Tools & Platforms</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&theme=dark" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv&theme=dark" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,linux,html,css,docker&theme=dark" /></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,pytorch,sklearn,tensorflow,git,mongodb,nodejs,react&theme=dark" />
 </div>
 
 <br/>
 
-## Featured Architectures & Systems
+## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- PROJECT CARD GRID -->
+<div align="center">
 
-### ClimateAuditX
-<div align="left">
-  <img src="https://img.shields.io/badge/Graph_Neural_Networks-4b5563?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Sustainability_AI-4b5563?style=flat-square&logoColor=white">
-</div>
-<br/>
-A Heterogeneous Graph Neural Network designed to detect structural trade anomalies and hidden carbon leakage pathways. Features a Mirror Trade Reconstruction protocol and Shapley-value based emissions attribution.
-</td>
-<td width="50%" valign="top">
-
-### Bidirectional Image Translation
-<div align="left">
-  <img src="https://img.shields.io/badge/Generative_Vision-4b5563?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/CycleGAN-4b5563?style=flat-square&logoColor=white">
-</div>
-<br/>
-A CycleGAN-based Photo-to-Sketch and Sketch-to-Photo system. Implements an Edge-Preserving Infrastructure and a multi-stage photorealistic enhancement pipeline optimized for architectural and forensic imagery.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Kisaan Intelligence Platform
-<div align="left">
-  <img src="https://img.shields.io/badge/Spatial_AI-4b5563?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Climate_Tech-4b5563?style=flat-square&logoColor=white">
-</div>
-<br/>
-A WEF Nexus Spatial Decision-Support System integrating satellite imagery, SWAT-calibrated hydrological simulation, and GRACE gravity telemetry with Monte Carlo policy simulations for regional groundwater management.<br><br>
-<a href="https://github.com/Nayuraikar/WEF_Nexus"><b>View Repository</b></a>
-</td>
-<td width="50%" valign="top">
-
-### Clinical Sepsis Prediction
-<div align="left">
-  <img src="https://img.shields.io/badge/Healthcare_ML-4b5563?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Time_Series-4b5563?style=flat-square&logoColor=white">
-</div>
-<br/>
-An end-to-end machine learning pipeline built on longitudinal ICU telemetry. Utilizes advanced feature enrichment and missing-data imputation strategies for highly accurate, early-stage sepsis risk detection and stratification.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Blood-Sync
-<div align="left">
-  <img src="https://img.shields.io/badge/IoT-4b5563?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Full_Stack-4b5563?style=flat-square&logoColor=white">
-</div>
-<br/>
-An IoT-enabled Blood Bank Management System featuring RFID tracking, live inventory monitoring, automated expiration alerts, and optimized donor-recipient linkage algorithms.<br><br>
-<a href="https://github.com/Nayuraikar/Blood-Sync"><b>View Repository</b></a>
-</td>
-<td width="50%" valign="top">
-
-### Dementia Care Assistive Platform
-<div align="left">
-  <img src="https://img.shields.io/badge/Assistive_Tech-4b5563?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Web_Platform-4b5563?style=flat-square&logoColor=white">
-</div>
-<br/>
-A comprehensive caregiver support system integrating real-time location tracking, interactive memory diaries, and photographic cognitive cues designed specifically for accessible dementia care.<br><br>
-<a href="https://github.com/Nayuraikar/dementia-care-website"><b>View Repository</b></a>
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" style="border: none; padding: 10px;">
+      <!-- CARD 1 -->
+      <div style="border: 1px solid #334155; border-radius: 10px; padding: 20px; background-color: #1e293b; height: 100%;">
+        <h3>ClimateAuditX</h3>
+        <p><em>Carbon Leakage Detection Framework</em></p>
+        <p>Heterogeneous GNN to detect structural trade anomalies and hidden carbon leakage pathways, featuring a Mirror Trade Reconstruction protocol and Shapley-value emissions attribution.</p>
+        <img src="https://img.shields.io/badge/GNN-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sustainability_AI-22D3EE?style=flat-square" />
+      </div>
+    </td>
+    <td width="50%" style="border: none; padding: 10px;">
+      <!-- CARD 2 -->
+      <div style="border: 1px solid #334155; border-radius: 10px; padding: 20px; background-color: #1e293b; height: 100%;">
+        <h3>Photo ⇔ Sketch</h3>
+        <p><em>Bidirectional Image Translation</em></p>
+        <p>CycleGAN-based system with an Edge-Preserving Infrastructure and a multi-stage photorealistic enhancement pipeline for architectural and forensic imagery.</p>
+        <img src="https://img.shields.io/badge/Generative_Vision-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/CycleGAN-22D3EE?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none; padding: 10px;">
+      <!-- CARD 3 -->
+      <div style="border: 1px solid #334155; border-radius: 10px; padding: 20px; background-color: #1e293b; height: 100%;">
+        <h3>Kisaan Intelligence Platform</h3>
+        <p><em>WEF Nexus Spatial Decision-Support</em></p>
+        <p>Integrates satellite imagery, hydrological simulation, and gravity telemetry with Monte Carlo policy simulations for regional groundwater management.</p>
+        <a href="https://github.com/Nayuraikar/WEF_Nexus" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/Spatial_AI-A855F7?style=flat-square" />
+      </div>
+    </td>
+    <td width="50%" style="border: none; padding: 10px;">
+      <!-- CARD 4 -->
+      <div style="border: 1px solid #334155; border-radius: 10px; padding: 20px; background-color: #1e293b; height: 100%;">
+        <h3>Sepsis Prediction Engine</h3>
+        <p><em>ICU Risk Stratification Pipeline</em></p>
+        <p>End-to-end ML pipeline on longitudinal ICU telemetry with advanced feature enrichment and missing-data imputation for early sepsis detection.</p>
+        <img src="https://img.shields.io/badge/Healthcare_ML-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Time--Series-22D3EE?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none; padding: 10px;">
+      <!-- CARD 5 -->
+      <div style="border: 1px solid #334155; border-radius: 10px; padding: 20px; background-color: #1e293b; height: 100%;">
+        <h3>Blood-Sync</h3>
+        <p><em>IoT Blood Bank Management</em></p>
+        <p>RFID-enabled tracking platform with live inventory monitoring, automated expiry alerts, and donor-recipient linkage algorithms.</p>
+        <a href="https://github.com/Nayuraikar/Blood-Sync" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/IoT-22D3EE?style=flat-square" />
+      </div>
+    </td>
+    <td width="50%" style="border: none; padding: 10px;">
+      <!-- CARD 6 -->
+      <div style="border: 1px solid #334155; border-radius: 10px; padding: 20px; background-color: #1e293b; height: 100%;">
+        <h3>Dementia Care Platform</h3>
+        <p><em>Caregiver Support System</em></p>
+        <p>Integrating real-time location tracking, memory diaries, and photographic cognitive cues for accessible dementia care.</p>
+        <a href="https://github.com/Nayuraikar/dementia-care-website" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/Assistive_Tech-22D3EE?style=flat-square" />
+      </div>
+    </td>
+  </tr>
 </table>
 
+</div>
+
 <br/>
 
-## Additional Projects & Research
+## Additional Projects & Contributions
 
-<div align="center">
-
-| Project | Domain / Focus Area |
-| :--- | :--- |
-| **Finger Vein Biometric Authentication** | Computer Vision / Security (U-Net, ArcFace, NIR) |
-| **NeuroCardio** | Healthcare ML (CNN-BiLSTM, Arrhythmia Classification) |
-| **LLVM Optimization Pass** | Compilers / Systems (Dead Code Elimination, Inlining) |
-| **[hackucchino_RVCE](https://github.com/Nayuraikar/hackucchino_RVCE_4_NayanaJagadishRaikar)** | Hackathon Build |
-| **[Gamified Skill Learning](https://github.com/Nayuraikar/Gamified-Skill-Learning-DAA)** | Algorithms / EdTech |
-| **[Sun Tracking Solar System](https://github.com/Nayuraikar/Sun-Tracking-Solar-)** | Civil Engineering / IoT Hardware |
-| **[Don't Bug Me](https://github.com/Nayuraikar/Don-t-bug-me)** | Food Safety / Hackathon Build |
-| **[IIIT Bhubaneswar E-commerce](https://github.com/Nayuraikar/iiit-bbsr-ecommerce-website)** | Full-Stack Web Development |
-| **[Policy Frameworks for Circular Transitions](https://github.com/Nayuraikar/Policy-frameworks-for-circular-transitions-in-developing-economies)** | Applied Environmental Research |
-
-</div>
+*   **[hackucchino_RVCE]**(https://github.com/Nayuraikar/hackucchino_RVCE_4_NayanaJagadishRaikar) (Hackathon Build)
+*   **[Gamified Skill Learning (DAA)]**(https://github.com/Nayuraikar/Gamified-Skill-Learning-DAA) (Algorithms / EdTech)
+*   **[Sun Tracking Solar System]**(https://github.com/Nayuraikar/Sun-Tracking-Solar-) (IoT / Civil Engineering)
+*   **[Don't Bug Me]**(https://github.com/Nayuraikar/Don-t-bug-me) (Food Safety / Hackathon Build)
+*   **[IIIT Bhubaneswar E-commerce]**(https://github.com/Nayuraikar/iiit-bbsr-ecommerce-website) (Full-Stack Web)
+*   **[Policy Frameworks for Circular Transitions]**(https://github.com/Nayuraikar/Policy-frameworks-for-circular-transitions-in-developing-economies) (Applied Research)
 
 <br/>
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nayuraikar&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayuraikar&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nayuraikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=22d3ee&icon_color=a855f7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayuraikar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=22d3ee" />
 </div>
+
+<br/>
+
+<!-- MATCHING NEON FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10:22d3ee,90:a855f7&height=80&section=footer&reversal=true" width="100%"/>
