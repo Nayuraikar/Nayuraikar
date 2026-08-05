@@ -1,9 +1,13 @@
 <div align="center">
 
-<!-- Dynamic Terminal-Style Typography -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&lines=Nayana+Jagadish+Raikar;AI+%26+Machine+Learning+Researcher;Computer+Science+Undergraduate" alt="Nayana Jagadish Raikar" />
+<h1 align="center" style="font-weight: 800; font-size: 3rem; letter-spacing: 4px; color: #c9d1d9; text-transform: uppercase; margin-bottom: 0;">
+  Nayana <span style="color: #58a6ff;">Raikar</span>
+</h1>
+<p align="center" style="font-size: 16px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-top: 5px;">
+  AI & Machine Learning Researcher | CS Undergraduate
+</p>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/Nayuraikar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -19,8 +23,8 @@
 <h2 align="center">PROFILE OVERVIEW</h2>
 
 <div align="center">
-  <p style="font-size: 16px; color: #8b949e; max-width: 800px; line-height: 1.6;">
-    I am a Computer Science and Engineering undergraduate at RV College of Engineering. Deeply interested in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Neural Networks</b>, I continuously explore innovative approaches to solve complex technical challenges. My engineering focus lies in architecting robust deep learning pipelines—spanning graph neural networks, generative vision models, and spatial AI—and translating them into patent-pending systems and peer-reviewed technical literature.
+  <p style="font-size: 16px; color: #8b949e; max-width: 750px; line-height: 1.7; text-align: center;">
+    <b>Computer Science and Engineering</b> undergraduate at <i>RV College of Engineering</i>. I specialize in architecting robust deep learning pipelines—spanning <b>graph neural networks</b>, <b>generative vision models</b>, and <b>spatial AI</b>. Driven by a passion for solving complex, real-world challenges, my work focuses on translating theoretical models into patent-pending systems and peer-reviewed technical literature.
   </p>
 </div>
 
@@ -120,29 +124,36 @@
 
 <br/>
 
-<h2 align="center">TECHNICAL EXTRACURRICULARS</h2>
+<h2 align="center">OTHER PROJECTS</h2>
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; background-color: #0d1117; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <tr style="background-color: #161b22; color: #58a6ff;">
-      <th width="25%" style="padding: 15px; text-align: left; border-bottom: 1px solid #30363d;">ARCHITECTURE / SYSTEM</th>
-      <th width="25%" style="padding: 15px; text-align: left; border-bottom: 1px solid #30363d;">DOMAIN FOCUS</th>
-      <th width="50%" style="padding: 15px; text-align: left; border-bottom: 1px solid #30363d;">IMPLEMENTATION DETAILS</th>
-    </tr>
-    <tr>
-      <td style="padding: 15px; border-bottom: 1px solid #30363d; color: #c9d1d9;"><b>Finger Vein Authentication</b></td>
-      <td style="padding: 15px; border-bottom: 1px solid #30363d; color: #8b949e;">Biometric Security</td>
-      <td style="padding: 15px; border-bottom: 1px solid #30363d; color: #c9d1d9;">Near-Infrared (NIR) imaging pipeline, U-Net spatial segmentation, ArcFace embeddings, Hardware deployment (Raspberry Pi CM4)</td>
-    </tr>
-    <tr>
-      <td style="padding: 15px; border-bottom: 1px solid #30363d; color: #c9d1d9;"><b>NeuroCardio</b></td>
-      <td style="padding: 15px; border-bottom: 1px solid #30363d; color: #8b949e;">Healthcare Diagnostics</td>
-      <td style="padding: 15px; border-bottom: 1px solid #30363d; color: #c9d1d9;">CNN-BiLSTM architecture, Patient-wise data splitting, AAMI EC57 standard mapping, Focal loss for class imbalance</td>
-    </tr>
-    <tr>
-      <td style="padding: 15px; color: #c9d1d9;"><b>InlineDCEPass</b></td>
-      <td style="padding: 15px; color: #8b949e;">LLVM Compilers</td>
-      <td style="padding: 15px; color: #c9d1d9;">Custom C++ compiler optimization pass engineered for aggressive function inlining and dead code elimination</td>
-    </tr>
-  </table>
-</div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33.3%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <h3 style="margin-top: 0; color: #58a6ff;">Finger Vein Auth</h3>
+        <p style="color: #8b949e; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;"><em>Biometric Security</em></p>
+        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+          A biometric security system leveraging Near-Infrared imaging and U-Net spatial segmentation. Deployed on a Raspberry Pi CM4 utilizing ArcFace embeddings.
+        </p>
+      </div>
+    </td>
+    <td width="33.3%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <h3 style="margin-top: 0; color: #58a6ff;">NeuroCardio</h3>
+        <p style="color: #8b949e; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;"><em>Healthcare Diagnostics</em></p>
+        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+          A CNN-BiLSTM diagnostic tool mapped to AAMI EC57 standards. It features patient-wise data splitting and handles class imbalance via focal loss.
+        </p>
+      </div>
+    </td>
+    <td width="33.3%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <h3 style="margin-top: 0; color: #58a6ff;">InlineDCEPass</h3>
+        <p style="color: #8b949e; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;"><em>LLVM Compilers</em></p>
+        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+          A custom C++ optimization pass engineered for LLVM compilers. It aggressively targets function inlining and performs robust dead code elimination.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
