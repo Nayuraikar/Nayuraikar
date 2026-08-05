@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1 align="center" style="font-weight: 800; font-size: 2.8rem; letter-spacing: 2px; color: #c9d1d9; text-transform: uppercase; margin-bottom: 0;">
-  Nayana Jagadish <span style="color: #58a6ff;">Raikar</span>
-</h1>
+<img src="./animated_name.svg" alt="Nayana Jagadish Raikar" width="800">
 <p align="center" style="font-size: 16px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-top: 5px;">
   CS Undergraduate @ RVCE
 </p>
@@ -126,34 +124,35 @@
 
 <h2 align="center">OTHER PROJECTS</h2>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="33.3%" valign="top" style="border: none; padding: 10px;">
-      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        <h3 style="margin-top: 0; color: #58a6ff;">Finger Vein Auth</h3>
-        <p style="color: #8b949e; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;"><em>Biometric Security</em></p>
-        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
-          A biometric security system leveraging Near-Infrared imaging and U-Net spatial segmentation. Deployed on a Raspberry Pi CM4 utilizing ArcFace embeddings.
-        </p>
-      </div>
-    </td>
-    <td width="33.3%" valign="top" style="border: none; padding: 10px;">
-      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        <h3 style="margin-top: 0; color: #58a6ff;">NeuroCardio</h3>
-        <p style="color: #8b949e; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;"><em>Healthcare Diagnostics</em></p>
-        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
-          A CNN-BiLSTM diagnostic tool mapped to AAMI EC57 standards. It features patient-wise data splitting and handles class imbalance via focal loss.
-        </p>
-      </div>
-    </td>
-    <td width="33.3%" valign="top" style="border: none; padding: 10px;">
-      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        <h3 style="margin-top: 0; color: #58a6ff;">InlineDCEPass</h3>
-        <p style="color: #8b949e; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;"><em>LLVM Compilers</em></p>
-        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
-          A custom C++ optimization pass engineered for LLVM compilers. It aggressively targets function inlining and performs robust dead code elimination.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="max-width: 800px; text-align: left;">
+    <ul style="list-style-type: none; padding: 0; margin: 0;">
+      
+      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #58a6ff;">
+        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">CVE-Triage-Agent</h3>
+        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">An AI-driven cybersecurity triage agent designed for automated vulnerability assessment and response protocol execution.</p>
+      </li>
+
+      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #388bfd;">
+        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Finger Vein Authentication</h3>
+        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A biometric security pipeline leveraging Near-Infrared imaging and U-Net spatial segmentation, deployed on Raspberry Pi CM4.</p>
+      </li>
+
+      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1f6feb;">
+        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Policy Frameworks for Circular Transitions</h3>
+        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A data-driven Jupyter Notebook analysis outlining sustainable circular economy transitions for developing nations.</p>
+      </li>
+
+      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1158c7;">
+        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Gamified Skill Learning (DAA)</h3>
+        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">An interactive TypeScript-based educational platform focused on teaching complex algorithm design through gamification.</p>
+      </li>
+
+      <li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #0d419d;">
+        <h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Don't Bug Me</h3>
+        <p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A food safety hackathon solution utilizing Python and machine learning to predict and prevent foodborne contamination vectors.</p>
+      </li>
+
+    </ul>
+  </div>
+</div>
