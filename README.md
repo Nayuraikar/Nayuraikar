@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Nayana+Jagadish+Raikar" alt="Nayana Jagadish Raikar" />
+<h1 align="center" style="font-weight: bold;">Nayana Jagadish Raikar</h1>
+<h3 align="center" style="color: #64748b;">Computer Science Undergraduate & AI Researcher</h3>
 
 <p align="center">
   <a href="https://github.com/Nayuraikar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:nayu.raikar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -15,54 +16,104 @@
 
 <br/>
 
-## Profile
+## Profile Overview
 
-I am a Computer Science and Engineering student (Batch of 2027) at RV College of Engineering. My technical background is rooted in applied machine learning, computer vision, and compiler optimization. I focus on developing domain-specific architectures—specifically within healthcare diagnostics, environmental monitoring, and hardware-integrated biometric security. My objective is to conduct rigorous technical research and implement engineered pipelines that solve concrete data problems without overstating the scope of the underlying technology.
+I am a Computer Science and Engineering undergraduate at RV College of Engineering, deeply focused on Artificial Intelligence, Machine Learning, and Neural Networks. My research and engineering efforts are centered on exploring innovative, mathematically grounded approaches to solve complex technical challenges. Rather than focusing solely on theoretical models, my objective is to architect and deploy advanced deep learning pipelines—spanning Graph Neural Networks, generative vision models, and healthcare machine learning—into patent-pending systems and peer-reviewed technical literature. 
 
 <br/>
 
-## Core Competencies
+## Research & Core Achievements
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="100%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #334155; border-radius: 4px; padding: 15px; background-color: #0f172a;">
+        <ul style="margin: 0; padding-left: 20px; color: #f8fafc;">
+          <li style="margin-bottom: 8px;"><b>Patent Application Filed:</b> <em>Photo-to-Sketch and Sketch-to-Photo Transformation System and Method using Cycle GAN</em> at the Indian Patent Office.</li>
+          <li style="margin-bottom: 8px;"><b>First-Author Publication:</b> <em>ClimateAuditX: A Heterogeneous Graph Neural Network Framework for Carbon Leakage Detection and Scope 3 Emissions Attribution</em>, accepted in IEEE Access (Dr. Jyoti Shetty, Corresponding Author).</li>
+          <li><b>Research Internship:</b> RVCE Centre of Excellence in Health Care Technology Research (CHTR).</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Technical Proficiencies
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-18181b?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PyTorch-18181b?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-18181b?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-18181b?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-334155?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-334155?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML-334155?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-334155?style=flat-square&logo=scikitlearn&logoColor=white" alt="AI & ML" />
+  <img src="https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </div>
 
 <br/>
 
-## Technical Projects & Research
+## Primary Engineering Projects
 
-### ClimateAuditX: Heterogeneous GNN for Carbon Leakage
-* **Domain:** Environmental AI / Sustainability
-* **Details:** First-authored a research framework (accepted to IEEE Access, April 2026) that utilizes a heterogeneous Graph Neural Network to detect structural trade anomalies and hidden carbon leakage pathways. Implements a Mirror Trade Reconstruction protocol and Shapley-value based emissions attribution. Authored under the mentorship of corresponding author Dr. Jyoti Shetty.
-
-### NeuroCardio: Arrhythmia Classification System
-* **Domain:** Healthcare Machine Learning
-* **Details:** Engineered an end-to-end classification pipeline applying a CNN+BiLSTM architecture to the MIT-BIH database. The system utilizes patient-wise data splitting, strictly manages class imbalance via focal loss, and maps directly to the AAMI EC57 standard.
-
-### Finger Vein Biometric Authentication
-* **Domain:** Computer Vision / Hardware Integration
-* **Details:** Developed a multi-stage biometric verification system using near-infrared (NIR) image acquisition. The technical pipeline integrates U-Net for spatial segmentation and ArcFace embeddings for feature extraction, fully deployed and integrated with a Raspberry Pi CM4.
-
-### LLVM Optimization Pass
-* **Domain:** Systems / Compiler Engineering
-* **Details:** Wrote and tested a custom compiler optimization pass (InlineDCEPass) within the LLVM infrastructure. The pass is designed for aggressive function inlining and dead code elimination to improve execution overhead across multiple C++ test cases.
-
-### Predictive Resource Routing
-* **Domain:** Resource Management / Spatial AI
-* **Details:** A spatial decision-support system integrating satellite imagery, SWAT-calibrated hydrological simulation, and GRACE gravity telemetry with Monte Carlo policy simulations for regional groundwater management.
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #334155; border-radius: 4px; padding: 20px; background-color: #0f172a; height: 100%;">
+        <h3 style="margin-top: 0; color: #f1f5f9;">ClimateAuditX</h3>
+        <p style="color: #94a3b8; font-size: 14px;"><em>Carbon Leakage Detection Framework</em></p>
+        <p style="color: #cbd5e1; font-size: 14px; line-height: 1.5;">Developed a Heterogeneous Graph Neural Network (HGNN) to identify structural trade anomalies and hidden carbon leakage pathways. Implemented a Mirror Trade Reconstruction protocol to resolve reporting asymmetries and maximize global trade network connectivity. Utilized Shapley value allocation methods to achieve fair carbon responsibility attribution among interconnected supply chain partners.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #334155; border-radius: 4px; padding: 20px; background-color: #0f172a; height: 100%;">
+        <h3 style="margin-top: 0; color: #f1f5f9;">Bidirectional Image Translation</h3>
+        <p style="color: #94a3b8; font-size: 14px;"><em>Photo-to-Sketch & Sketch-to-Photo System</em></p>
+        <p style="color: #cbd5e1; font-size: 14px; line-height: 1.5;">Invented a bidirectional image translation system using CycleGAN with an Edge-Preserving Infrastructure (EPI) to bypass encoder bottlenecks and maintain structural fidelity. Engineered a multi-stage photorealistic enhancement pipeline to refine tonal transitions and eliminate generative artifacts across complex visual domains, architectural imagery, and forensic visualization.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #334155; border-radius: 4px; padding: 20px; background-color: #0f172a; height: 100%;">
+        <h3 style="margin-top: 0; color: #f1f5f9;">Kisaan Intelligence Platform</h3>
+        <p style="color: #94a3b8; font-size: 14px;"><em>WEF Nexus Spatial AI / Predictive Resource Routing</em></p>
+        <p style="color: #cbd5e1; font-size: 14px; line-height: 1.5;">Architected a high-fidelity spatial decision-support system integrating satellite imagery, SWAT-calibrated hydrological simulations, and GRACE gravity telemetry. Developed real-time agronomic advisory engines and Monte Carlo policy robustness simulations to optimize regional groundwater management and financial yields for Nashik district.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #334155; border-radius: 4px; padding: 20px; background-color: #0f172a; height: 100%;">
+        <h3 style="margin-top: 0; color: #f1f5f9;">Clinical Sepsis Prediction Engine</h3>
+        <p style="color: #94a3b8; font-size: 14px;"><em>ICU Risk Stratification System</em></p>
+        <p style="color: #cbd5e1; font-size: 14px; line-height: 1.5;">Engineered an end-to-end predictive machine learning pipeline using longitudinal ICU telemetry for early risk stratification and sepsis progression modeling. Implemented advanced feature enrichment and missing-data imputation workflows to optimize critical care lead times and diagnostic precision.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #334155; border-radius: 4px; padding: 20px; background-color: #0f172a; height: 100%;">
+        <h3 style="margin-top: 0; color: #f1f5f9;">IoT Blood Bank Management System</h3>
+        <p style="color: #94a3b8; font-size: 14px;"><em>Inventory & Tracking Platform</em></p>
+        <p style="color: #cbd5e1; font-size: 14px; line-height: 1.5;">Developed an RFID-enabled tracking platform for blood units featuring live inventory monitoring, automated expiry alerts, and highly optimized donor-recipient linkage algorithms.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #334155; border-radius: 4px; padding: 20px; background-color: #0f172a; height: 100%;">
+        <h3 style="margin-top: 0; color: #f1f5f9;">Dementia Care Assistive Platform</h3>
+        <p style="color: #94a3b8; font-size: 14px;"><em>Caregiver Accessibility System</em></p>
+        <p style="color: #cbd5e1; font-size: 14px; line-height: 1.5;">Designed an accessible caregiver platform integrating real-time location tracking, persistent memory diaries, and photographic cognitive cues to support neurodegenerative care protocols.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## Additional Engineering Work
+## Extracurricular Technical Integrations
 
-| Project | Domain | Architecture / Focus |
+| Architecture / System | Domain | Technical Implementation |
 | :--- | :--- | :--- |
-| **Bidirectional Image Translation** | Generative Vision | CycleGAN, Edge-Preserving Infrastructure |
-| **Clinical Sepsis Prediction Engine** | Healthcare ML | ICU Telemetry, Missing-Data Imputation |
-| **Blood-Sync** | Full-Stack IoT | RFID Tracking, Hardware Linking |
-| **Dementia Care Assistive Platform** | Assistive Tech | Location Tracking, Cognitive Cues |
+| **Finger Vein Authentication** | Biometric Security | Near-Infrared (NIR) imaging, U-Net segmentation, ArcFace |
+| **NeuroCardio** | Healthcare Diagnostics | CNN-BiLSTM, AAMI EC57 standard mapping, Focal Loss |
+| **InlineDCEPass** | LLVM Compilers | Custom optimization pass for function inlining and dead code elimination |
