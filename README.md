@@ -124,30 +124,33 @@
 
 <h2 align="center">OTHER PROJECTS</h2>
 
-<div align="center">
-<div style="max-width: 800px; text-align: left;">
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-
-<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #58a6ff;">
-<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">CVE-Triage-Agent</h3>
-<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">An AI-driven cybersecurity triage agent designed for automated vulnerability assessment and response protocol execution.</p>
-</li>
-
-<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #388bfd;">
-<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">Finger Vein Authentication</h3>
-<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A biometric security pipeline leveraging Near-Infrared imaging and U-Net spatial segmentation, deployed on Raspberry Pi CM4.</p>
-</li>
-
-<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1f6feb;">
-<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">NeuroCardio (ECG)</h3>
-<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A CNN-BiLSTM diagnostic tool mapped to AAMI EC57 standards, engineered to handle class imbalance via focal loss.</p>
-</li>
-
-<li style="margin-bottom: 25px; padding-left: 20px; border-left: 4px solid #1158c7;">
-<h3 style="margin: 0; color: #79c0ff; font-size: 18px;">SafeScript</h3>
-<p style="margin: 5px 0 0 0; color: #c9d1d9; font-size: 14px;">A JavaScript-based secure execution framework designed to sandbox code and mitigate runtime vulnerabilities.</p>
-</li>
-
-</ul>
-</div>
-</div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 25px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-left: 4px solid #58a6ff;">
+        <h3 style="margin-top: 0; color: #79c0ff; font-size: 18px;">CVE-Triage-Agent</h3>
+        <p style="margin: 8px 0 0 0; color: #c9d1d9; font-size: 14px; line-height: 1.6;">An AI-driven cybersecurity triage agent designed for automated vulnerability assessment and response protocol execution.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 25px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-left: 4px solid #388bfd;">
+        <h3 style="margin-top: 0; color: #79c0ff; font-size: 18px;">Finger Vein Authentication</h3>
+        <p style="margin: 8px 0 0 0; color: #c9d1d9; font-size: 14px; line-height: 1.6;">A biometric security pipeline leveraging Near-Infrared imaging and U-Net spatial segmentation, deployed on Raspberry Pi CM4.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 25px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-left: 4px solid #1f6feb;">
+        <h3 style="margin-top: 0; color: #79c0ff; font-size: 18px;">NeuroCardio (ECG)</h3>
+        <p style="margin: 8px 0 0 0; color: #c9d1d9; font-size: 14px; line-height: 1.6;">A CNN-BiLSTM diagnostic tool mapped to AAMI EC57 standards, engineered to handle class imbalance via focal loss.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 25px; background-color: #0d1117; height: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-left: 4px solid #1158c7;">
+        <h3 style="margin-top: 0; color: #79c0ff; font-size: 18px;">SafeScript</h3>
+        <p style="margin: 8px 0 0 0; color: #c9d1d9; font-size: 14px; line-height: 1.6;">A JavaScript-based secure execution framework designed to sandbox code and mitigate runtime vulnerabilities.</p>
+      </div>
+    </td>
+  </tr>
+</table>
