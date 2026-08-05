@@ -1,85 +1,127 @@
-<h1 align="center">Nayana Jagadish Raikar</h1>
+<div align="center">
 
-<p align="center">
-  Computer Science Undergraduate | RV College of Engineering | AI & Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=Nayana%20Jagadish%20Raikar&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+
+<p>
+  <a href="https://github.com/Nayuraikar"><img src="https://img.shields.io/badge/GitHub-Nayuraikar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nayu.raikar@gmail.com"><img src="https://img.shields.io/badge/Email-nayu.raikar%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="mailto:nayu.raikar@gmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-Bengaluru%2C%20India-333333?style=flat-square&logo=googlemaps&logoColor=white"/>
-</p>
+</div>
 
----
+<br/>
 
-## About
+## Introduction
 
-- B.E. Computer Science and Engineering, RV College of Engineering (2023 – Present), CGPA 9.41
-- Focused on Artificial Intelligence, Machine Learning, and Neural Networks
-- Published in IEEE Access: *ClimateAuditX — A Heterogeneous Graph Neural Network Framework for Carbon Leakage Detection and Scope 3 Emissions Attribution*
-- Patent filed: Photo-to-Sketch and Sketch-to-Photo Transformation System using CycleGAN (Indian Patent Office)
-- Research Intern, RVCE Centre of Excellence in Health Care Technology Research (CHTR)
+I am a Computer Science undergraduate at RV College of Engineering, working across artificial intelligence and machine learning to build systems that turn complex, real-world data into decision-support tools. My work spans graph neural networks and generative vision models, spatial and environmental AI, healthcare machine learning, and IoT-based platforms — with an emphasis on taking research-grade methods into applications that solve tangible problems.
 
----
+<br/>
 
 ## Technical Skills
 
-`Python` `C` `C++` `Java` `JavaScript` `TypeScript` `HTML` `Machine Learning` `Neural Networks`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,pytorch,sklearn,git&theme=dark" />
+</div>
 
----
+<br/>
 
 ## Featured Projects
 
-**ClimateAuditX (Carbon Leakage Detection Framework)**
-Developed a Heterogeneous Graph Neural Network to identify structural trade anomalies and hidden carbon leakage pathways. Implemented a Mirror Trade Reconstruction protocol to resolve reporting asymmetries and used Shapley value allocation for fair carbon responsibility attribution. Published in IEEE Access.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Photo-to-Sketch and Sketch-to-Photo System (Patent Filed)**
-Built a bidirectional image translation system using CycleGAN with an Edge-Preserving Infrastructure to maintain structural fidelity. Engineered a multi-stage photorealistic enhancement pipeline for architectural and forensic visualization use cases.
+### ClimateAuditX
+**Carbon Leakage Detection Framework**
 
-**Kisaan Intelligence Platform (WEF Nexus Spatial AI)**
-Architected a spatial decision-support system integrating satellite imagery, SWAT-calibrated hydrological simulations, and GRACE gravity telemetry. Developed real-time agronomic advisory engines and Monte Carlo policy robustness simulations for groundwater management in Nashik district.
+Heterogeneous Graph Neural Network to detect structural trade anomalies and hidden carbon leakage pathways, with a Mirror Trade Reconstruction protocol and Shapley-value based emissions attribution.
 
-**Clinical Sepsis Severity Prediction Engine**
-Built an end-to-end machine learning pipeline using longitudinal ICU telemetry for early risk stratification and sepsis progression modeling, including feature enrichment and missing-data imputation workflows.
+`Graph Neural Networks` `Sustainability AI`
 
-**Blood-Sync (IoT Blood Bank Management System)**
-Developed an RFID-enabled tracking platform for blood units with live inventory monitoring, automated expiry alerts, and donor-recipient linkage algorithms.
-Repository: https://github.com/Nayuraikar/Blood-Sync
+</td>
+<td width="50%" valign="top">
 
-**Dementia Care Assistive Platform**
-Designed an accessible caregiver platform integrating real-time location tracking, memory diaries, and photographic cognitive cues.
-Repository: https://github.com/Nayuraikar/dementia-care-website
+### Photo-to-Sketch / Sketch-to-Photo
+**Bidirectional Image Translation System**
 
-<details>
-<summary>Additional Projects</summary>
-<br>
+CycleGAN-based system with an Edge-Preserving Infrastructure and a multi-stage photorealistic enhancement pipeline for architectural and forensic imagery.
 
-- hackucchino_RVCE — Hackathon project: https://github.com/Nayuraikar/hackucchino_RVCE_4_NayanaJagadishRaikar
-- Gamified Skill Learning (Design and Analysis of Algorithms): https://github.com/Nayuraikar/Gamified-Skill-Learning-DAA
-- Sun Tracking Solar System — Civil Engineering elective project: https://github.com/Nayuraikar/Sun-Tracking-Solar-
-- Don't Bug Me — Food safety hackathon project: https://github.com/Nayuraikar/Don-t-bug-me
-- IIIT Bhubaneswar E-commerce Website: https://github.com/Nayuraikar/iiit-bbsr-ecommerce-website
+`Generative Vision` `CycleGAN`
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### Kisaan Intelligence Platform
+**WEF Nexus Spatial Decision-Support System**
 
-## Achievements
+Integrates satellite imagery, SWAT-calibrated hydrological simulation, and GRACE gravity telemetry with Monte Carlo policy simulations for regional groundwater management.
 
-- Paper Publication: *ClimateAuditX — A Heterogeneous Graph Neural Network Framework for Carbon Leakage Detection and Scope 3 Emissions Attribution*, IEEE Access
-- Research Internship: RVCE Centre of Excellence in Health Care Technology Research (CHTR)
-- Patent Application Filed: *Photo-to-Sketch and Sketch-to-Photo Transformation System and Method using Cycle GAN*, Indian Patent Office
+[`Repository`](https://github.com/Nayuraikar/WEF_Nexus) &nbsp;·&nbsp; `Spatial AI` `Climate Tech`
 
----
+</td>
+<td width="50%" valign="top">
+
+### Clinical Sepsis Prediction Engine
+**ICU Risk Stratification Pipeline**
+
+End-to-end ML pipeline on longitudinal ICU telemetry with advanced feature enrichment and missing-data imputation for early sepsis risk detection.
+
+`Healthcare ML` `Time-Series`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Blood-Sync
+**IoT Blood Bank Management System**
+
+RFID-enabled tracking platform with live inventory monitoring, automated expiry alerts, and donor-recipient linkage algorithms.
+
+[`Repository`](https://github.com/Nayuraikar/Blood-Sync) &nbsp;·&nbsp; `IoT` `Full-Stack`
+
+</td>
+<td width="50%" valign="top">
+
+### Dementia Care Assistive Platform
+**Caregiver Support System**
+
+Accessible platform integrating real-time location tracking, memory diaries, and photographic cognitive cues for dementia care.
+
+[`Repository`](https://github.com/Nayuraikar/dementia-care-website) &nbsp;·&nbsp; `Assistive Tech`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Additional Projects
+
+<div align="center">
+
+| Project | Domain |
+|---|---|
+| [hackucchino_RVCE](https://github.com/Nayuraikar/hackucchino_RVCE_4_NayanaJagadishRaikar) | Hackathon |
+| [Gamified Skill Learning (DAA)](https://github.com/Nayuraikar/Gamified-Skill-Learning-DAA) | Algorithms / EdTech |
+| [Sun Tracking Solar System](https://github.com/Nayuraikar/Sun-Tracking-Solar-) | Civil Engineering / IoT |
+| [Don't Bug Me](https://github.com/Nayuraikar/Don-t-bug-me) | Food Safety / Hackathon |
+| [IIIT Bhubaneswar E-commerce Website](https://github.com/Nayuraikar/iiit-bbsr-ecommerce-website) | Full-Stack Web |
+| [Policy Frameworks for Circular Transitions](https://github.com/Nayuraikar/Policy-frameworks-for-circular-transitions-in-developing-economies) | Applied Research |
+
+</div>
+
+<br/>
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nayuraikar&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayuraikar&layout=compact&theme=default&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nayuraikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayuraikar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
----
+<br/>
 
-<p align="center">
-  RV College of Engineering | Bengaluru, Karnataka | nayu.raikar@gmail.com
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:1e293b&height=100&section=footer" width="100%"/>
