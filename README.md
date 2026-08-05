@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1 align="center" style="font-weight: 800; font-size: 3rem; letter-spacing: 4px; color: #c9d1d9; text-transform: uppercase; margin-bottom: 0;">
-  Nayana <span style="color: #58a6ff;">Raikar</span>
+<h1 align="center" style="font-weight: 800; font-size: 2.8rem; letter-spacing: 2px; color: #c9d1d9; text-transform: uppercase; margin-bottom: 0;">
+  Nayana Jagadish <span style="color: #58a6ff;">Raikar</span>
 </h1>
 <p align="center" style="font-size: 16px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-top: 5px;">
-  AI & Machine Learning Researcher | CS Undergraduate
+  CS Undergraduate @ RVCE
 </p>
 
 <p align="center" style="margin-top: 20px;">
@@ -23,8 +23,8 @@
 <h2 align="center">PROFILE OVERVIEW</h2>
 
 <div align="center">
-  <p style="font-size: 16px; color: #8b949e; max-width: 750px; line-height: 1.7; text-align: center;">
-    <b>Computer Science and Engineering</b> undergraduate at <i>RV College of Engineering</i>. I specialize in architecting robust deep learning pipelines—spanning <b>graph neural networks</b>, <b>generative vision models</b>, and <b>spatial AI</b>. Driven by a passion for solving complex, real-world challenges, my work focuses on translating theoretical models into patent-pending systems and peer-reviewed technical literature.
+  <p style="font-size: 16px; color: #c9d1d9; max-width: 800px; line-height: 1.8; text-align: center;">
+    I am a computational researcher focused on bridging the gap between theoretical machine learning and applied engineering. My work centers on designing specialized deep learning architectures—including heterogeneous graph neural networks, generative adversarial networks (GANs), and spatial AI systems—to solve complex, high-impact problems across disparate domains. I have engineered predictive pipelines for critical care diagnostics, optimized resource routing using multi-modal telemetry, and developed patent-pending frameworks for structural anomaly detection. My primary objective is to advance state-of-the-art intelligent systems by translating rigorous mathematical models into highly scalable, peer-reviewed technical solutions.
   </p>
 </div>
 
